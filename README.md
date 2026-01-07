@@ -20,3 +20,5 @@ This project displays food recipes in a clean layout and is designed to work wel
 ---
 
 ## 📂 Project Structure
+
+Trigger GitHub Pages build
